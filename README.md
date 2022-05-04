@@ -1,5 +1,5 @@
 # very-low-cost-haptic-paddle
-This is a very low-cost version of a popular 1-DOF haptic paddle.
+This is the very low-cost version of the popular one-dof haptic paddle.
 
 ### CAD Design
 
