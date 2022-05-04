@@ -2,7 +2,7 @@
 This is the very low-cost version of the popular one-dof haptic paddle.
 
 ### CAD Design
-
+Solidworks version: 2022  
 ![](https://github.com/auralius/very-low-cost-haptic-paddle/blob/main/pictures/CAD.PNG)
 
 ### Fabrication
