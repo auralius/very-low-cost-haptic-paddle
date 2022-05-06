@@ -12,4 +12,8 @@ The assembled device:
 Capstan drive for motion transmission:  
 ![](https://github.com/auralius/very-low-cost-haptic-paddle/blob/main/pictures/capstan.png)
 
+### Electronic Schematic
+
+![](https://github.com/auralius/very-low-cost-haptic-paddle/blob/main/pictures/schematic.png)
+
 
